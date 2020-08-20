@@ -11,6 +11,9 @@ part2/courseinfo/node_modules
 part2/countries/node_modules
 part2/countries/.env
 
+part3/phonebook/node_modules
+
+.directory
 /.pnp
 .pnp.js
 
